@@ -1,0 +1,24 @@
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA HOTELS.csprojAssemblyReference.cache
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.PH.resources
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.Properties.Resources.resources
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA HOTELS.csproj.GenerateResource.cache
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA HOTELS.csproj.CoreCompileInputs.cache
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\bin\Debug\PHOENICIA HOTELS.exe.config
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\bin\Debug\PHOENICIA HOTELS.exe
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\bin\Debug\PHOENICIA HOTELS.pdb
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA HOTELS.exe
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA HOTELS.pdb
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\bin\Debug\MetroFramework.Design.dll
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\bin\Debug\MetroFramework.dll
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA HOTELS.csproj.CopyComplete
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.PH1.resources
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.Register.resources
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\bin\Debug\Aspose.Imaging.dll
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\bin\Debug\Aspose.Imaging.xml
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.Ph2.resources
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.Hotel.resources
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.PH3.resources
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.Comment.resources
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.MAP.resources
+C:\Users\Casian\Desktop\PHOENICIA HOTELS\obj\Debug\PHOENICIA_HOTELS.Room.resources
